@@ -1,6 +1,6 @@
 <?php
 $config = array();
-$config['version'] = 0.32424242424242424242422222;
+$config['version'] = 1.22424242424242424242422222;
 
 
 
