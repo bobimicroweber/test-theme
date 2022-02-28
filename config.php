@@ -1,3 +1,3 @@
 <?php
 $config = array();
-$config['version'] = 1.1;
+$config['version'] = 0.1;
